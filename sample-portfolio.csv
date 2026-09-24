@@ -1,0 +1,5 @@
+Symbol,Company,Sector,Quantity,AvgPrice,CurrentPrice,PE,ROE,ROCE,DebtEquity,RevenueGrowth,ProfitGrowth,Volatility
+TCS,Tata Consultancy Services,IT,5,3500,3900,30,46,58,0.10,7,9,0.70
+RELIANCE,Reliance Industries,Energy,8,1250,1400,25,9,10,0.45,11,8,1.05
+HDFCBANK,HDFC Bank,Banking,12,1500,1650,19,17,16,0.80,15,18,0.90
+TATAMOTORS,Tata Motors,Automobile,10,700,760,11,27,21,0.90,14,22,1.45
